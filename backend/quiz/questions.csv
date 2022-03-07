@@ -1,0 +1,6 @@
+questions,A,B,C,D,correct answer,marks,topic,difficulty level
+Which of the following comment syntax is correct to create a single-line comment in the C++ program?,//Comment,/Comment/,Comment//,None of the above,A,1,C++,easy
+C++ is a ___ type of language.,High-level Language,Low-level language,Middle-level language,None of the above,C,1,C++,easy
+What does {{name}} thismean in Django Templates?,{{ name }} will be the output.,It will be displayed as name in HTML.,The name will be replaced with values of Python variable., None of the above,C,2,Django,medium
+
+
